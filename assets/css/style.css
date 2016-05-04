@@ -1,0 +1,97 @@
+.mainblock {
+
+    margin: auto;
+    width: 30%;
+    border: 5px solid #777777;
+    padding: 50px 50px 50px 50px;
+    background: #73AD21;
+    font-family: arial, tahoma;
+
+}
+
+.title {
+
+font-size: 50px;
+color: #f2f	;
+text-align: center;
+text-shadow: 2px 2px 1px #000;
+margin: 0px 0px 50px 0px;
+font-weight: bolder;
+
+
+}
+
+.container {
+
+
+}
+
+
+.question1 {
+
+text-align: left;
+font-size: 20px;
+color: #fff	;
+text-shadow: 2px 2px 1px #000;
+margin: 0px 0px 50px 0px;
+font-weight: bolder;
+
+}
+
+.question2 {
+
+text-align: left;
+font-size: 20px;
+color: #fff	;
+text-shadow: 2px 2px 1px #000;
+margin: 0px 0px 50px 0px;
+font-weight: bolder;
+
+}
+
+.question3 {
+
+text-align: left;
+font-size: 20px;
+color: #fff	;
+text-shadow: 2px 2px 1px #000;
+margin: 0px 0px 50px 0px;
+font-weight: bolder;
+
+}
+
+.question4 {
+
+text-align: left;
+font-size: 20px;
+color: #fff	;
+text-shadow: 2px 2px 1px #000;
+margin: 0px 0px 50px 0px;
+font-weight: bolder;
+
+}
+
+.question5 {
+
+text-align: left;
+font-size: 20px;
+color: #fff	;
+text-shadow: 2px 2px 1px #000;
+margin: 0px 0px 50px 0px;
+font-weight: bolder;
+
+
+}
+
+
+
+.button2 {
+    background-color: #f2f;
+    color: white;
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    text-decoration: none;
+    width: 100px;
+    text-align: center;
+}
