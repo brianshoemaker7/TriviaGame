@@ -11,10 +11,10 @@ function done() {
 	
 	$(".button2").click(function () {
 		if ($('#RadioGroup1_2').is(':checked')) {
-			alert("it's checked");
-			console.log("work damn you work");
+			alert("checked");
 			rightCounter ++;
-
+			console.log(rightCounter);
+			
 		}
 
 		else wrongCounter ++;
@@ -23,6 +23,7 @@ function done() {
 
  	};
 
+done();
 
 };
 
